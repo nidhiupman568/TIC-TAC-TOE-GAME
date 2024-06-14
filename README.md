@@ -2,7 +2,7 @@
 
 # ⭕❌ Tic Tac Toe Game ⭕❌
 
-Welcome to the **Tic Tac Toe Game** project! 🎮 This classic game brings back nostalgia and fun, allowing you to play against a friend or the computer. Built with **HTML**, **CSS**, and **JavaScript**, this game is interactive and enjoyable for players of all ages.
+Welcome to the **Tic Tac Toe Game** project! 🎮✨ This classic game 🎲 brings back nostalgia 🕰️ and fun 😄, allowing you to play against a friend 👥 or the computer 🤖. Built with **HTML** 📄, **CSS** 🎨, and **JavaScript** 💻, this game is interactive 🔄 and enjoyable 🎉 for players of all ages 👶👴.
 
 ## 📋 Description
 
