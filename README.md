@@ -4,6 +4,8 @@
 
 Welcome to the **Tic Tac Toe Game** project! 🎮✨ This classic game 🎲 brings back nostalgia 🕰️ and fun 😄, allowing you to play against a friend 👥 or the computer 🤖. Built with **HTML** 📄, **CSS** 🎨, and **JavaScript** 💻, this game is interactive 🔄 and enjoyable 🎉 for players of all ages 👶👴.
 
+Project Demo: https://nidhiupman568.github.io/TIC-TAC-TOE-GAME/
+
 ## 📋 Description
 
 The **Tic Tac Toe Game** is a two-player game where each player takes turns marking spaces in a 3x3 grid. The objective is to be the first to complete a line of three symbols (either X or O) horizontally, vertically, or diagonally. It features a responsive design, ensuring a seamless experience on both desktop and mobile devices. Challenge your friends or test your skills against the computer in this timeless game of strategy and tactics! 🌟
